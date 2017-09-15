@@ -39,7 +39,7 @@ do { // 1
 }
 ```
 
-When you describe, now you may refer to the spot using the assigned number above. Again, it doesn't mean you can't use in-line comments, but excessive comments should be avoided.
+When you describe, you may refer to the spot using the assigned number above. Again, it doesn't mean you can't use in-line comments, but excessive comments should be avoided.
 
 ### Writing Tools
   - In-browser markdown editor - [StackEdit](https://stackedit.io/)
