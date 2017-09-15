@@ -26,10 +26,10 @@ func autoManejo() {
 
 
 ## Overall
-Unlike many other tech platforms and publishers, we must sound as humanly as possible. Not to mention, you may add your own taste and words based on your culture. It doesn't have to strict. Again, you are the author and you are using the original version of a template, not the source of truth.
+Unlike many other tech platforms and publishers, we sound like humans. You may add your own taste and words based on your culture. It doesn't have to strict. Again, you are the author and you are using the original version of a template, not the source of truth.
 
 ## Available Articles
-A list of available posts is found below. 
+A list of available posts is found below.
 
 [Full Screen](https://docs.google.com/spreadsheets/d/1DMD5CVxojimcEQSWln02YzCtJr2su1NVpVd0Ut_HVHg/edit?usp=sharing)
 
