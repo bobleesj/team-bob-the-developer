@@ -1,5 +1,5 @@
 # Culture
-It is not the easiest job to manage a group of individuals at different time zones. Most of us have a have full-time job. It is important to maintain a few protocols to keep each other accountable so that we may step forward one at a time.
+We live in different time zones. Most of us have a have full-time job. It is important to maintain a few protocols to keep each other accountable so that we may step forward one at a time.
 
 **1. Driven by deadlines:** When we work remotely, it is imperative that we set the expectation clear. On a weekly basis, we schedule for the next meeting along with the tasks to be completed. We catch up via Google Hangout.
 
