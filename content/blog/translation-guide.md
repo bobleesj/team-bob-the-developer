@@ -1,7 +1,7 @@
 # Blog Translation Guideline
   1. **You are the author of the content:** Feel free to "I"s throughout the article. You have the ownership of the content. The original version should be considered as a template If there is 'Bob' in the title, please feel free to change it to your name.
   2. **Feel free to add your own comment and thought:** Feel free to add your own comment to sound like a non-google translate. You can add your own email and social media.
-  3. **The language within code snippets should be localized:** If there is any source code, it should be attached to your git repository for personal branding and localization. If you need any help with diagrams, I will render new drawings for your langauge.
+  3. **The language within code snippets should be localized:** If there is any source code, it should be attached to your git repository for personal branding and localization. If you need any help with diagrams, I will render new drawings for your language.
 
 ## Example
 The below is an example in Spanish. Notice that every word has been customized for familiarity besides the Swift syntax.
